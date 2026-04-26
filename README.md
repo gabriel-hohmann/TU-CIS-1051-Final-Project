@@ -1,7 +1,7 @@
 # TU-CIS-1051-Final-Project
 Final project of CIS 1051 at Temple University
 
-Video presentation found on YouTube here: https://www.youtube.com/watch?v=nyuHpPVPorQ
+Video presentation found on YouTube here: 
 
 This project aims to take a political survey of about 5000 respondents and 60 survey questions and make a prediction based on the answers to that survey whether that respondent voted for Donald Trump or Kamala Harris in the 2024 Presidential Election. It will make a prediction and compare it to one of the survey questions that asks whether the respondent voted for Donald Trump or Kamala Harris. The intended goal of this project is to take several machine learning models that will make predictions versus the actual survey response. 
 
